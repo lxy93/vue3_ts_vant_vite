@@ -6,6 +6,7 @@ import 'amfe-flexible/index.js'
 import './vant'
 import '@/utils/app'
 import '@/utils/index'
+import '@/style/base.less'
 
 // import service from '@/utils/request'
 // console.log(service)
